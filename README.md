@@ -18,6 +18,16 @@ fighting.
   - Change the images of the room 
 - Buttons to attack
   - A Box for stats (health, inventory)
+  - Images of who we're battling
 - Buttons to talk
   - A box for dialouge
   - Buttons to end talk
+- Buttons to start Battles
+  - A way to win/lose battles
+  - Lose health
+  - Add Health
+  - Use items
+- Track Game Status
+  - Who have we fought?
+  - Where have we been?
+  - What items have we picked up?
