@@ -12,3 +12,7 @@ Our MVP will include:
 Interacting with rooms, searching, leaving etc.
 
 fighting.
+
+Technically Describing What needs to get done.
+[_]
+[]
