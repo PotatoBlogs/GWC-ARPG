@@ -13,6 +13,11 @@ Interacting with rooms, searching, leaving etc.
 
 fighting.
 
-Technically Describing What needs to get done.
-[_]
-[]
+# Technically Describing What needs to get done.
+- Buttons to change rooms
+  - Change the images of the room 
+- Buttons to attack
+  - A Box for stats (health, inventory)
+- Buttons to talk
+  - A box for dialouge
+  - Buttons to end talk
